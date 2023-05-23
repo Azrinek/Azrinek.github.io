@@ -109,8 +109,11 @@ body {
   }
 .image1{
 width: 40%;
-margin-left:50px;
 margin-right:50px;
+}
+.image2{
+width: 40%;
+margin-left:50px;
 }
 nav{
   background-color: #777;
